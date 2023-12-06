@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeAlingEmne3
+namespace CodeAlongEmne3
 {
     internal class Car
     {
